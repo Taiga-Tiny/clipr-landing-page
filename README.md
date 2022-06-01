@@ -3,8 +3,8 @@
 This is a solution to the [Clipboard landing page challenge on Frontend Mentor]
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Taiga-Tiny/clipr-landing-page
+- Live Site URL:https://taiga-tiny.github.io/clipr-landing-page/
 
 ### Built with
 
